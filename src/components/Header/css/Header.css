@@ -1,0 +1,15 @@
+.Header {
+  height: 100px;
+  background-color: #fff;
+}
+
+.Header-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Header .button {
+  padding: 10px 20px;
+}

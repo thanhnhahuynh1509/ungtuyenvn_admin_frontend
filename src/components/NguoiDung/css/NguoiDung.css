@@ -1,0 +1,26 @@
+.NguoiDung {
+  background-color: #fff;
+}
+
+.NguoiDung-container {
+  margin: 90px auto;
+}
+
+.NguoiDung-header {
+  height: 80px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  gap: 20px;
+}
+
+.NguoiDung-header .button {
+  padding: 10px 20px;
+}
+
+.NguoiDung-content {
+  margin: 20px 0px;
+  height: 50vh;
+  overflow: auto;
+}

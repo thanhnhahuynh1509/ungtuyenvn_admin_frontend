@@ -1,0 +1,18 @@
+.Home-container {
+  margin: 90px auto;
+  background-color: #fff;
+}
+
+.Home-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.Card {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}

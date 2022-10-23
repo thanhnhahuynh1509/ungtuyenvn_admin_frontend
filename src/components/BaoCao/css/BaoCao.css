@@ -1,0 +1,33 @@
+.BaoCao {
+  background-color: #fff;
+}
+
+.BaoCao-container {
+  margin: 90px auto;
+}
+
+.BaoCao-header {
+  height: 80px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  gap: 20px;
+}
+
+.BaoCao-header .button {
+  padding: 10px 20px;
+}
+
+.BaoCao-content {
+  margin: 20px 0px;
+  height: 50vh;
+  overflow: auto;
+}
+
+.BaoCao-card {
+  padding: 10px 10px 10px 20px;
+  background-color: #eee;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
